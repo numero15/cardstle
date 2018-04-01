@@ -345,32 +345,10 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 ### Ennemis
 
 
-||**valet**|**dame**|**roi**|
+||**valet**|**dame**|**roi**|**as**|
 |vie|1|2|3|4|
 |att|1|2|2|2|
 |def|1|2|2|2|
 |mov|1|2|2|2|
-
-
-
-+1 dans sa spé
-DAME
-
-
-
-+1 dans sa spé
-
-
-ROI
-
-
-+1 dans sa spé
-AS
-
-
-+1 dans sa spé
-+1 en Vie Att ou Def
-
-
-
+|bonus|+1 dans sa spé|+1 dans sa spé|+1 dans sa spé| +1 dans sa spé +1 dans une autre stat|
 
