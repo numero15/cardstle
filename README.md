@@ -305,27 +305,16 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 
 ### Fiche perso
 
-Nom Prénom :
-classe : 
-carte ou nombre fétiche :
-Vie    OOOOO
-Mov     OOOOO
-Def     OOOOO
-Att     OOOOO
 
-Trésors :
--
--
--
--
--
--
-
-Objets :
--
--
--
-
+| Nom |  |
+| classe |  |
+| carte ou nombre fétiche |  |
+| Vie| OOOOO |
+| Att| OOOOO |
+| Def| OOOOO |
+| Mov| OOOOO |
+| Trésors |  |
+| Objets |  |
 
 
 ## Documents utiles
