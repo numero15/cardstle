@@ -246,7 +246,7 @@ Un critique lors d’une phase de dialogue a pour effet de faire gagner 2 points
 A tout moment durant son tour un joueur peut donner autant de trésors ou d’objets qu’il le souhaite à n’importe quel joueur situé sur la même case que lui ou sur une case adjacente (diagonale comprise). 
 
 
-## Crafting
+# Crafting
 
 Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, ils peuvent les combiner pour créer différents objets. Les objets peuvent être inventés par les joueurs et/ou le MJ. En voici quelques exemples :
 famille (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, valet, dame, roi) : objet légendaire, donne un crédit pour augmenter une statistique :
@@ -276,9 +276,9 @@ Les trésors restants sont répartis entre les joueurs, pour le début de la pi�
 Attention : les trésors permettant d’ouvrir les coffres (cf. Coffres il est important de toujours conserver un petit stock de trésors sous peine de se retrouver bloqué)
 
 
-## En pratique
+# En pratique
 
-Préparation
+## Préparation
 Matériel
 
 2 jeux de 52 cartes
