@@ -9,16 +9,16 @@ Cardstle est basé sur quatre mécaniques, explorer, combattre, dialoguer et fab
 **Dialoguer** et nouer des relations avec des personnages.  
 **Fabriquer** des objets en combinant des ingrédients ramassés dans les donjons.
 
-## But
+# But
 
 Explorer une pièce à la recherche d'un élément (clé/item/P.N.J.) décidé par le MJ. La pièce est finie une fois l'élément trouvé et/ou les conditions de victoire imposées par le MJ remplies (ouvrir une porte avec la clé, donner un objet à un P.N.J., etc.).
 Après avoir terminé une pièce les joueurs ont la possibilité de fabriquer des objets (crafting) avec les trésors ramassés durant l'exploration de la pièce.
 Une fois les objets fabriqués les joueurs peuvent pénétrer dans une nouvelle pièce, et ainsi de suite.
 
 
-## Création de personnage
+# Création de personnage
 
-### Statistiques
+## Statistiques
 
 Chaque joueur incarne un personnage défini par les statistiques vie (Vie), attaque (Att), défense (Def) et vitesse et mouvement (Mov).
 
@@ -39,7 +39,7 @@ Exemple :
 Le joueur souhaite avoir 3 points de défense, il dépense 1 crédit pour le 1er point, 2 crédits pour le 2eme, 3 crédits pour le 3eme, soit un total de 6 crédits.
 
 
-##Inventaire
+## Inventaire
 
 Chaque personnage possède un inventaire dans lequel il peut stocker :
 3 objets craftés (items puissants)
@@ -89,7 +89,7 @@ lors d'un combat sa défense critique inflige 1 point de dégât
 peut changer la valeur d'une carte pendant la phase de crafting
 
 
-## Pièce
+# Pièce
 
 Chaque pièce est représentée par un damier de cartes posées face cachés, cote à cote. La disposition des cartes défini la zone sur laquelle les joueurs se déplaceront (salle, sentier, labyrinthe, etc.).
 Les joueur peuvent se déplacer sur une carte adjacente à leur position actuelle (le déplacement en diagonal est autorisé).
@@ -100,7 +100,7 @@ Les joueurs ne peuvent se rendre sur des emplacements laissés vides par le MJ.
 A chaque fois qu'un joueur se déplace sur une carte face cachée il la retourne et effectue les actions spécifique au type de carte (cf. Type de carte).
 
 
-##Types de cartes
+## Types de cartes
 
 Les cartes constituant la pièce se voient attribuées des rôles différents en fonction de leur valeur :
 
@@ -154,9 +154,11 @@ pour restorer 1 point de vie, à tout moment du tour du joueur : famille coeur
 
 ### Cartes spéciales
 Le MJ peut décider que certaines cartes ont un rôle particulier dans le déroulement du scénario. 
-Ennemis
+
+#### Ennemis
 Des ennemis peuvent être belliqueux et déclencher automatiquement un combat, amicaux et ouvrir automatiquement un dialogue, enfin le choix peut être laissé au joueur. 
-Artefacts 
+
+#### Artefacts 
 Des artefacts peuvent être disséminés dans la pièce
 Les artefacts peuvent être n’importe quelle carte :
 si l’artefact est un piège il sera automatiquement récupérée que le piège soit désactivé ou pas.
