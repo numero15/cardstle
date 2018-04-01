@@ -331,10 +331,10 @@ Objets :
 ## Documents utiles
 
 ### Familles/statistiques
-| Coeur | Vie | Séduire |
-| Pique | Attaque | Intimider | 
-| Carreau | Défense | Convaincre |
-| Trèfle | Mouvement | Mentir |
+| **Coeur** | Vie | Séduire |
+| **Pique** | Attaque | Intimider |
+| **Carreau** | Défense | Convaincre |
+| **Trèfle** | Mouvement | Mentir |
 
 ### Coffres
 | 2 | 3 | 4 | 5 | 6 | 7 |
