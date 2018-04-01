@@ -199,7 +199,7 @@ Exemple :
 Il faut faire 10 pour réussir le test, si le joueur fait 12 ou plus il effectue une réussite critique
 
 
-## Combat
+## Combats
 
 début du tour
 jet d'initiative : chaque opposant tire dans la donne autant de cartes qu'il a de points de mouvement. Si critique attaque 2 fois
@@ -241,7 +241,7 @@ Exemple : joueur A et joueur B discutent avec PNJ X. A et X ont un score d’aff
 Un critique lors d’une phase de dialogue a pour effet de faire gagner 2 points de conviction au lieu de 1.
 
 
-## Echange d’objets
+## Échanges d’objets
 
 A tout moment durant son tour un joueur peut donner autant de trésors ou d’objets qu’il le souhaite à n’importe quel joueur situé sur la même case que lui ou sur une case adjacente (diagonale comprise). 
 
