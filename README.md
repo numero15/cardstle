@@ -331,18 +331,27 @@ Objets :
 ## Documents utiles
 
 ### Familles/statistiques
+
+
 | **Coeur** | Vie | Séduire |
 | **Pique** | Attaque | Intimider |
 | **Carreau** | Défense | Convaincre |
 | **Trèfle** | Mouvement | Mentir |
 
+
 ### Coffres
+
+
 | 2 | 3 | 4 | 5 | 6 | 7 |
 | 1 trésor | 1 trésor | 1 trésor | 2 trésors | 2 trésors | 3 trésors |
 
+
 ### Pièges
+
+
 | 8 | 9 | 10 |
 | Att 2 | Att 3 | Att 4 |
+
 
 ### Ennemis
 VALET
