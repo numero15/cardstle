@@ -7,7 +7,7 @@ Cardstle est basé sur quatre mécaniques, explorer, combattre, dialoguer et fab
 **Dialoguer** et nouer des relations avec des personnages.  
 **Fabriquer** des objets en combinant des ingrédients ramassés dans les donjons.
 
-[but](#But)
+# But
 
 Explorer une pièce à la recherche d'un élément (clé/item/P.N.J.) décidé par le MJ. La pièce est finie une fois l'élément trouvé et/ou les conditions de victoire imposées par le MJ remplies (ouvrir une porte avec la clé, donner un objet à un P.N.J., etc.).
 Après avoir terminé une pièce les joueurs ont la possibilité de fabriquer des objets (crafting) avec les trésors ramassés durant l'exploration de la pièce.
