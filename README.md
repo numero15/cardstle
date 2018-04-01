@@ -27,17 +27,18 @@ Au début de la partie le joueur attribue des valeurs à chacune de ces statisti
 Le joueur dispose de 20 crédits à répartir entre les 4 statistiques, le coût en crédits pour améliorer une statistique est le suivant :
 
 
-|**valeur de la stat.**|1er  point|2eme  point|3eme  point|4eme  point|5eme  point|
-|**coût en crédits**|1|2|3|4|5|
-|**coût en crédits cumulé**|1|3|6|10|15|
+| **valeur de la stat.** | 1er  point | 2eme  point | 3eme  point | 4eme  point | 5eme  point |
+| **coût en crédits** | 1 | 2 | 3 | 4 | 5 |
+| **coût en crédits cumulé** | 1 | 3 | 6 | 10 | 15 |
 
 
 
 Le joueur doit attribuer au moins 1 point dans chaque statistique. Si après avoir rempli les statistiques il reste des crédits au joueur, il doit les noter sur sa fiche personnage, il pourra alors s’en servir plus tard.
 
 Exemple :
+```markdown
 Le joueur souhaite avoir 3 points de défense, il dépense 1 crédit pour le 1er point, 2 crédits pour le 2eme, 3 crédits pour le 3eme, soit un total de 6 crédits.
-
+```
 
 Inventaire
 
