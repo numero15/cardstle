@@ -305,102 +305,50 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 
 ### Fiche perso
 
-Nom Prénom :
-classe : 
-carte ou nombre fétiche :
-Vie    OOOOO
-Mov     OOOOO
-Def     OOOOO
-Att     OOOOO
 
-Trésors :
--
--
--
--
--
--
-
-Objets :
--
--
--
-
+| Nom |  |
+| classe |  |
+| carte ou nombre fétiche |  |
+| Vie| OOOOO |
+| Att| OOOOO |
+| Def| OOOOO |
+| Mov| OOOOO |
+| Trésors |  |
+| Objets (maximum 3) |  |
 
 
 ## Documents utiles
 
-Familles/statistiques
-Coeur
-Vie 
-Séduire
-Pique
-Attaque
-Intimider
-Carreau
-Défense
-Convaincre
-Trèfle
-Mouvement
-Mentir
-
-Coffres
-2
-3
-4
-5
-6
-7
-1 trésor
-1 trésor
-1 trésor
-2 trésors
-2 trésors
-3 trésors
-
-Pièges
-8
-9
-10
-Att 2
-Att 3
-Att 4
-
-Ennemis
-VALET
-
-Vie 1
-Att 1
-Def 1
-Mov 1
-
-+1 dans sa spé
-DAME
-
-Vie 2
-Att 2
-Def 2
-Mov 2
-
-+1 dans sa spé
+### Familles/statistiques
 
 
-ROI
+| **Coeur** | Vie | Séduire |
+| **Pique** | Attaque | Intimider |
+| **Carreau** | Défense | Convaincre |
+| **Trèfle** | Mouvement | Mentir |
 
-Vie 3
-Att 2
-Def 2
-Mov 2
 
-+1 dans sa spé
-AS
+### Coffres
 
-Vie 4
-Att 2
-Def 2
-Mov 2
 
-+1 dans sa spé
-+1 en Vie Att ou Def
+| 2 | 3 | 4 | 5 | 6 | 7 |
+| 1 trésor | 1 trésor | 1 trésor | 2 trésors | 2 trésors | 3 trésors |
 
+
+### Pièges
+
+
+| 8 | 9 | 10 |
+| Att 2 | Att 3 | Att 4 |
+
+
+### Ennemis
+
+
+||**valet**|**dame**|**roi**|**as**|
+|vie|1|2|3|4|
+|att|1|2|2|2|
+|def|1|2|2|2|
+|mov|1|2|2|2|
+|bonus|+1 dans sa spé|+1 dans sa spé|+1 dans sa spé| +1 dans sa spé, +1 dans une autre stat|
 
