@@ -314,7 +314,7 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 | Def| OOOOO |
 | Mov| OOOOO |
 | Trésors |  |
-| Objets |  |
+| Objets (maximum 3) |  |
 
 
 ## Documents utiles
@@ -343,40 +343,34 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 
 
 ### Ennemis
-VALET
 
-Vie 1
-Att 1
-Def 1
-Mov 1
+
+||**valet**|**dame**|**roi**|
+|vie|1|2|3|4|
+|att|1|2|2|2|
+|def|1|2|2|2|
+|mov|1|2|2|2|
+
+
 
 +1 dans sa spé
 DAME
 
-Vie 2
-Att 2
-Def 2
-Mov 2
+
 
 +1 dans sa spé
 
 
 ROI
 
-Vie 3
-Att 2
-Def 2
-Mov 2
 
 +1 dans sa spé
 AS
 
-Vie 4
-Att 2
-Def 2
-Mov 2
 
 +1 dans sa spé
 +1 en Vie Att ou Def
+
+
 
 
