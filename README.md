@@ -350,6 +350,5 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 |att|1|2|2|2|
 |def|1|2|2|2|
 |mov|1|2|2|2|
-|bonus|+1 dans sa spé|+1 dans sa spé|+1 dans sa spé| +1 dans sa spé
-+1 dans une autre stat|
+|bonus|+1 dans sa spé|+1 dans sa spé|+1 dans sa spé| +1 dans sa spé, +1 dans une autre stat|
 
