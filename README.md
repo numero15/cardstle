@@ -342,7 +342,7 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 
 # License
 
-Cardstle est placé sous license creative commons (CC BY-NC-SA 3.0)[#https://creativecommons.org/licenses/by-nc-sa/3.0/fr/]
+Cardstle est placé sous license creative commons (CC BY-NC-SA 3.0)[https://creativecommons.org/licenses/by-nc-sa/3.0/fr/]
 
 
 Attribution — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
