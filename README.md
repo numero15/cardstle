@@ -2,9 +2,9 @@ Cardstle est un système de jeu de rôle minimaliste pour 3 à 6 joueurs se joua
 
 Cardstle est basé sur quatre mécaniques, explorer, combattre, dialoguer et fabriquer.
 
-**Explorer** des donjons générés procéduralement, infestés d'ennemis, de pièges et de trésors.  
-**Combattre** à l'aide d'objets et de capacités spéciales propres à chaque personnage.  
-**Dialoguer** et nouer des relations avec des personnages.  
+**Explorer** des donjons générés procéduralement, infestés d'ennemis, de pièges et de trésors.
+**Combattre** à l'aide d'objets et de capacités spéciales propres à chaque personnage.
+**Dialoguer** et nouer des relations avec des personnages.
 **Fabriquer** des objets en combinant des ingrédients ramassés dans les donjons.
 
 # But
@@ -109,8 +109,8 @@ Exemples de stats en [annexe](#documents-utiles).
 ### Piège (8, 9, 10)
 Un piège ne se déclenche qu'une fois, au moment ou il est retourné, il n'est plus actif par la suite.
 Au moment de l'activation le joueur doit tester sa défense contre l'attaque du piège (cf. Tests).
-- piège 8 : 2 d'attaque    
-- piège 9 : 3 d'attaque    
+- piège 8 : 2 d'attaque
+- piège 9 : 3 d'attaque
 - piège 10 : 4 d'attaque
 
 Si le joueur réussit le test il désactive le piège, il peut alors récupérer la carte du piège et l'ajouter à son inventaire en tant que trésor. S'il échoue il perd 1 point de vie et laisse la carte piège en place, elle ne sera plus active et personne ne pourra plus la récupérer.
@@ -141,12 +141,12 @@ Il ont différentes fonctionnalités, il peuvent être utilisés :
 Le MJ peut décider que certaines cartes ont un rôle particulier dans le déroulement du scénario.
 
 #### Ennemis
-Des ennemis peuvent être belliqueux et déclencher automatiquement un combat, amicaux et ouvrir automatiquement un dialogue, enfin le choix peut être laissé au joueur.
+Des ennemis peuvent être belliqueux et déclencher automatiquement un combat, ou amicaux et ouvrir automatiquement un dialogue, ou bien encore le choix peut être laissé au joueur.
 
 #### Artefacts
 Des artefacts peuvent être disséminés dans la pièce
 Les artefacts peuvent être n’importe quelle carte :
-- si l’artefact est un piège il sera automatiquement récupérée que le piège soit désactivé ou pas.
+- si l’artefact est un piège il sera automatiquement récupéré que le piège soit désactivé ou pas.
 - si l’artefact est un ennemi il faudra tuer l’ennemi pour le récupérer
 - si l’artefact est un coffre il faudra l’ouvrir pour le récupérer
 
@@ -156,54 +156,59 @@ En aucun cas l’artefact ne pourra être ajouté aux trésors d’un joueur
 ## Tests
 
 ### Version carte
-Chaque joueur pioche dans la donne autant cartes qu'il a de points dans la statistique qu'il souhaite tester
+Chaque joueur pioche dans la donne autant cartes qu'il a de points dans la statistique qu'il souhaite tester.
 Il additionne ensuite la valeur des cartes pour connaître le résultat de son test.
 Lors des combats, il en va de même pour les ennemis.
 
-Exemple :  
-> Un joueur souhaite attaquer, il possède 3 points d'attaque. Il tire trois cartes : 5 pique, 10 trèfle, 2 pique. Il attaque avec une valeur de 5+10+2 = 17
+Exemple :
+> Un joueur souhaite attaquer, il possède 3 points d'attaque. Il tire trois cartes : 5 pique, 10 trèfle, 2 pique. Il attaque avec une valeur de 5+10+2 = 17.
 
 Si une des cartes tirées correspond à la carte fétiche du joueur, ce dernier est autorisé à piocher une carte supplémentaire.
 
-Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
+Une réussite critique a lieu si le résultat d’un test est supérieur au double du seuil de réussite.
+
+En cas d'ex aequo on réeffectue le test.
 
 Exemple :
-> Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique
+> Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique.
 
 ### Version dés
-Chaque joueur lance autant de dés (6 faces) qu'il a de points dans la statistique qu'il souhaite tester
+Chaque joueur lance autant de dés (6 faces) qu'il a de points dans la statistique qu'il souhaite tester.
 Il additionne ensuite la valeur des dés pour connaître le résultat de son test.
 Lors des combats, il en va de même pour les ennemis.
 
 Exemple :
 > Un joueur souhaite attaquer, il possède 3 points d'attaque. Il lance 3 dés
 
-Le joueur lance également le dé critique (12 faces) si le nombre identique au nombre fétiche du joueur celui ci pourra lancer un dé supplémentaire
+Le joueur lance également le dé critique (12 faces). Si le nombre est identique au nombre fétiche du joueur celui-ci pourra lancer un dé supplémentaire.
 
-Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
+Une réussite critique a lieu si le résultat d’un test est supérieur au double du seuil de réussite.
+
+En cas d'ex aequo on réeffectue le test.
 
 Exemple :
-> Il faut faire 10 pour réussir le test, si le joueur fait 12 ou plus il effectue une réussite critique
+> Il faut faire 10 pour réussir le test, si le joueur fait 12 ou plus il effectue une réussite critique.
 
 
 ## Combats
 
 - début du tour
-- jet d'initiative : chaque opposant pioche dans la donne autant de cartes qu'il a de points de mouvement.
-- fuite : si un des deux opposant a obtenu un critique en initiative il peut choisir de fuir le combat, il se déplace alors sur n’importe quelle case adjacente, il n'effectue aucune action sur cette carte avant le tour suivant.
+- jet d'initiative : chaque opposant effectue un test sur ses points de mouvement.
+- fuite : si un des deux opposants a obtenu un critique en initiative il peut choisir de fuir le combat, il se déplace alors sur n’importe quelle case adjacente, il n'effectue aucune action sur cette carte avant le tour suivant.
 - attaque du premier opposant : celui ayant obtenu le plus grand score en initiative commence. Si un des opposants a obtenu un critique en initiative il attaque 2 fois. L’attaquant pioche autant de cartes qu’il a de points d’attaque, le défenseur pioche autant de cartes qu’il a de points de  défense.
   - si l’attaquant obtient  le plus grand score il enlève 1 point de vie au défenseur.
-  - si l’attaquant fait une réussite critique il enlève 2 points de vie au défenseur
-  - si le défenseur obtient le plus grand score, il ne perd pas de points de vie
-  - si le défenseur fait une réussite critique, l’attaquant tirera une carte de moins lors de son prochain test (stun)
-- attaque du deuxième opposant sur le même principe que celle du premier
-- fin du tour
+  - si l’attaquant fait une réussite critique il enlève 2 points de vie au défenseur.
+  - si le défenseur obtient le plus grand score, il ne perd pas de points de vie.
+  - si le défenseur fait une réussite critique, l’attaquant tirera une carte de moins lors de son prochain test (stun).
+- attaque du deuxième opposant sur le même principe que celle du premier.
+- fin du tour.
 
-Un combat dure jusqu'à ce qu’un opposant fuit ou n’est plus de points de vie.
+Un combat dure jusqu'à ce qu’un opposant fuie ou n'ait plus de points de vie.
 
 ### Coups critiques :
-- attaque : enlève 1 point de vie supplémentaire
-- défense : enlève 1 carte au prochain jet de l'ennemi
+- attaque : enlève 1 point de vie supplémentaire.
+- défense : enlève 1 carte au prochain jet de l'ennemi.
+- mouvement : attaque 2 fois de suite ou fuit.
 
 
 ## Dialogues
@@ -253,7 +258,7 @@ Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, 
 |trèfle|permet de se téléporter sur n’importe quelle case de la pièce|
 |coeur|restaure tous les points de vie|
 
-- carré habillé (4 valets, 4 dames, 4 rois, 4  as) : sort variés à usage unique
+- carré habillé (4 valets, 4 dames, 4 rois, 4  as) : sorts variés à usage unique
 
 |valets||
 |dames|sort longue vue : permet de révéler une carte de la pièce|
@@ -272,11 +277,12 @@ Attention : les trésors permettant d’ouvrir les coffres (cf.[Coffre](#coffre-
 ## Préparation
 ### Matériel
 
-2 jeux de 52 cartes
-5 dés 6
-1 dé 12
-des crayons
-du papier
+- 2 jeux de 52 cartes
+- 5 dés 6
+- 1 dé 12
+- des crayons
+- du papier
+
 ### Préparation
 Un jeu de carte sera utilisé pour créer la pièce, les cartes restantes serviront de pioche (trésors), les jokers seront retirés de ce jeu. Pour les grandes pièces il est possible d’utiliser 2 jeux.
 
@@ -285,15 +291,17 @@ L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#
 
 ## Débuter une partie
 
-Les joueurs définissent leurs personnages, ils choisissent/créent leur classe ainsi que leur couleur ou nombre fétiche.
-Le MJ met en place la pièce, il dispose les cartes pour former les chemins désirés en prenant soin de dissimuler les items importants (artéfacts, PNJ, etc.) et d’en noter les références
-Exemple :  
-la clé sera le 10 de pique.
+Les joueurs définissent leurs personnages, ils choisissent/créent leur classe ainsi que leur combinaison carte-couleur ou nombre fétiche.
+Le MJ met en place la pièce, il dispose les cartes pour former les chemins désirés en prenant soin de dissimuler les items importants (artéfacts, PNJ, etc.) et d’en noter les références.
+
+Exemple :
+>la clé sera le 10 de pique.
+
 Les cartes restantes une fois la pièce créée deviennent la pioche. Si la pièce utilise plus de la moitié des cartes il faudra ajouter un nouveau jeu de 52 cartes.
 
 Chaque joueur commence la partie avec 2 trésors piochés au hasard.
 
-Les joueurs font un test de mouvement celui ayant eu le plus score commence, celui à se gauche joue ensuite, etc.
+Les joueurs font un test de mouvement. Celui ayant eu le plus score commence, celui à se gauche joue ensuite, etc.
 
 ### Fiche perso
 
