@@ -76,7 +76,7 @@ Chaque personnage possède des capacités spéciales utiles durant la phase d'ex
 # Pièce
 
 Chaque pièce est représentée par un damier de cartes posées face cachés, cote à cote. La disposition des cartes définit la zone sur laquelle les joueurs se déplaceront (salle, sentier, labyrinthe, etc.).
-Les joueur peuvent se déplacer sur une carte adjacente à leur position actuelle. Si la destination est une carte cachée, le déplacement diagonal est interdit.
+Les joueurs peuvent se déplacer sur une carte adjacente à leur position actuelle. Si la destination est une carte cachée, le déplacement diagonal est interdit.
 
 
 Les joueurs peuvent se déplacer deux fois plus vite sur des cases déjà découvertes. Si la destination d'un déplacement est une carte découverte, le déplacement diagonal est autorisé.
