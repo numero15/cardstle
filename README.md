@@ -118,7 +118,7 @@ Les coffres sont de différentes tailles :
 - 5 et 6 : coffres moyens, ils contiennent 2 trésors
 - 7 : grands coffres, ils contiennent 3 trésors
 
-Exemple :  
+Exemple :
 > Un joueur tombe sur un 5 de cœur, il l'ouvre avec un 3 de cœur qu'il avait dans son inventaire.
 > Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
 
@@ -163,7 +163,7 @@ Si une des cartes tirées correspond à la carte fétiche du joueur, ce dernier 
 
 Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
-Exemple :  
+Exemple :
 > Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique
 
 ### Version dés
@@ -171,14 +171,14 @@ Chaque joueur lance autant de dés (6 faces) qu'il a de points dans la statistiq
 Il additionne ensuite la valeur des dés pour connaître le résultat de son test. 
 Lors des combats, il en va de même pour les ennemis.
 
-Exemple :  
-Un joueur souhaite attaquer, il possède 3 points d'attaque. Il lance 3 dés
+Exemple :
+> Un joueur souhaite attaquer, il possède 3 points d'attaque. Il lance 3 dés
 
 Le joueur lance également le dé critique (12 faces) si le nombre identique au nombre fétiche du joueur celui ci pourra lancer un dé supplémentaire
 
 Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
-Exemple :  
+Exemple :
 > Il faut faire 10 pour réussir le test, si le joueur fait 12 ou plus il effectue une réussite critique
 
 
@@ -220,7 +220,7 @@ Exemple :
 Les PNJ récurrents peuvent avoir un score d’affinité avec un joueur allant de -6 (haine) à 6 (amour). Le score d’affinité entre le joueur et le PNJ est déduit du score du joueur à chaque lancer de dés.
 Dans le cas où plusieurs joueurs dialoguent en même temps avec un PNJ les affinités se somment pour chaque lancer de chaque joueur.
 
-Exemple :  
+Exemple :
 > joueur A et joueur B discutent avec PNJ X. A et X ont un score d’affinité de 3, B et X ont un score d’affinité de -5. Quand A et B jouent il doivent déduire -5+3 =-2 de leur lancer de dé. Si joueur A lance 2 dés et obtient 5 et 4, la valeur définitive de son jet sera 5+4-2 = 7
 
 Un critique lors d’une phase de dialogue a pour effet de faire gagner 2 points de conviction au lieu de 1.
