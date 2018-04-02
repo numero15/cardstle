@@ -125,7 +125,7 @@ Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
 ### Trésors
 Les trésors représentent les cartes acquises : dans les coffres, après avoir désactivé un piège ou tué un ennemi.
 Il ont différentes fonctionnalités, il peuvent être utilisés :
-- pour ouvrir un coffre (cf. [Coffres](#coffres))
+- pour ouvrir un coffre (cf. [Coffres](#coffre))
 - par certaines capacités spéciales des personnages (cf. [Création de presonnage](#création-de-personnage))
 - pour ajouter 1 carte ou dé à un test
 - carreau ajoute 1 carte ou dé en défense
@@ -259,7 +259,7 @@ Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, 
 Les trésors restants sont répartis entre les joueurs, pour le début de la pièce suivante. Avec un maximum de 2 trésors par joueur.
 
 
-Attention : les trésors permettant d’ouvrir les coffres (cf.[coffres](#Coffres)) il est important de toujours conserver un petit stock de trésors sous peine de se retrouver bloqué)
+Attention : les trésors permettant d’ouvrir les coffres (cf.[coffres](#Coffre)) il est important de toujours conserver un petit stock de trésors sous peine de se retrouver bloqué)
 
 
 # En pratique
