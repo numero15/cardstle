@@ -275,7 +275,7 @@ du papier
 ### Préparation
 Un jeu de carte sera utilisé pour créer la pièce, les cartes restantes serviront de pioche (trésors), les jokers seront retirés de ce jeu. Pour les grandes pièces il est possible d’utiliser 2 jeux.
 
-L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#tests) et [Combat](#combat)), les habillés et les jokers seront retirés de ce jeu
+L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#tests) et [Combats](#combats)), les habillés et les jokers seront retirés de ce jeu
 
 
 ## Débuter une partie
