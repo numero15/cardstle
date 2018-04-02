@@ -85,7 +85,7 @@ Les joueurs ne peuvent se rendre sur des emplacements laissés vides par le MJ.
 Les cartes constituant la pièce se voient attribuées des rôles différents en fonction de leur valeur :
 
 ### Ennemi (valet, dame, roi, as)
-Un ennemi déclenche un combat (cf. [Combat](#combat)) ou un dialogue (cf. [Dialogue](#dialogue)), le choix étant laissé au MJ.
+Un ennemi déclenche un combat (cf. [Combats](#combats)) ou un dialogue (cf. [Dialogues](#dialogues)), le choix étant laissé au MJ.
 En cas de combat, le joueur qui tue l'ennemi peut récupérer la carte de l'ennemi et l'ajouter à son inventaire en tant que trésor.
 
 Les ennemis sont de différents types en fonction de leur famille :
