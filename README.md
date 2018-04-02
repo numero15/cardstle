@@ -75,13 +75,13 @@ Chaque personnage possède des capacités spéciales utiles durant la phase d'ex
 
 # Pièce
 
-Chaque pièce est représentée par un damier de cartes posées face cachés, cote à cote. La disposition des cartes défini la zone sur laquelle les joueurs se déplaceront (salle, sentier, labyrinthe, etc.).
-Les joueur peuvent se déplacer sur une carte adjacente à leur position actuelle (le déplacement en diagonal est autorisé).
+Chaque pièce est représentée par un damier de cartes posées face cachés, cote à cote. La disposition des cartes définit la zone sur laquelle les joueurs se déplaceront (salle, sentier, labyrinthe, etc.).
+Les joueur peuvent se déplacer sur une carte adjacente à leur position actuelle. Si la destination est une carte cachée, le déplacement diagonal est interdit.
 
 
-Les joueurs peuvent se déplacer deux fois plus vite sur des cases déjà découvertes.
-Les joueurs ne peuvent se rendre sur des emplacements laissés vides par le MJ.
-À chaque fois qu'un joueur se déplace sur une carte face cachée il la retourne et effectue les actions spécifique au type de carte.
+Les joueurs peuvent se déplacer deux fois plus vite sur des cases déjà découvertes. Si la destination d'un déplacement est une carte découverte, le déplacement diagonal est autorisé.
+Les joueurs ne peuvent pas se rendre sur des emplacements laissés vides par le MJ.
+À chaque fois qu'un joueur se déplace sur une carte face cachée il la retourne et effectue les actions spécifiques au type de carte.
 
 
 ## Types de cartes
@@ -116,7 +116,7 @@ Au moment de l'activation le joueur doit tester sa défense contre l'attaque du 
 Si le joueur réussit le test il désactive le piège, il peut alors récupérer la carte du piège et l'ajouter à son inventaire en tant que trésor. S'il échoue il perd 1 point de vie et laisse la carte piège en place, elle ne sera plus active et personne ne pourra plus la récupérer.
 
 ### Coffre (2, 3, 4, 5, 6, 7)
-Lorsque qu'un joueur tombe sur un coffre il peut l'ouvrir si il possède dans son inventaire un trésor de la même famille. La valeur de la carte trésor n'a pas d'importance (cette carte devra être mise dans la pioche après utilisation). Lorsqu’il ouvre un coffre, le joueur ajoute à ses trésors le contenu du coffre ainsi que la carte du coffre. 
+Lorsque qu'un joueur tombe sur un coffre il peut l'ouvrir s'il possède dans son inventaire un trésor de la même famille. La valeur de la carte trésor n'a pas d'importance (cette carte devra être mise dans la pioche après utilisation). Lorsqu’il ouvre un coffre, le joueur ajoute à ses trésors le contenu du coffre ainsi que la carte du coffre.
 Les coffres sont de différentes tailles :
 - 2, 3 et 4 : petits coffres, ils contiennent 1 trésor
 - 5 et 6 : coffres moyens, ils contiennent 2 trésors
@@ -132,22 +132,22 @@ Il ont différentes fonctionnalités, il peuvent être utilisés :
 - pour ouvrir un coffre (cf. [Coffres](#coffre-2-3-4-5-6-7))
 - par certaines capacités spéciales des personnages (cf. [Création de presonnage](#création-de-personnage))
 - pour ajouter 1 carte ou dé à un test
-- carreau ajoute 1 carte ou dé en défense
-- pique ajoute 1 carte ou dé en attaque
-- trèfle ajoute 1 carte ou dé de mouvement
+  - carreau ajoute 1 carte ou dé en défense
+  - pique ajoute 1 carte ou dé en attaque
+  - trèfle ajoute 1 carte ou dé de mouvement
 - pour restorer 1 point de vie, à tout moment du tour du joueur : famille coeur
 
 ### Cartes spéciales
-Le MJ peut décider que certaines cartes ont un rôle particulier dans le déroulement du scénario. 
+Le MJ peut décider que certaines cartes ont un rôle particulier dans le déroulement du scénario.
 
 #### Ennemis
-Des ennemis peuvent être belliqueux et déclencher automatiquement un combat, amicaux et ouvrir automatiquement un dialogue, enfin le choix peut être laissé au joueur. 
+Des ennemis peuvent être belliqueux et déclencher automatiquement un combat, amicaux et ouvrir automatiquement un dialogue, enfin le choix peut être laissé au joueur.
 
-#### Artefacts 
+#### Artefacts
 Des artefacts peuvent être disséminés dans la pièce
 Les artefacts peuvent être n’importe quelle carte :
 - si l’artefact est un piège il sera automatiquement récupérée que le piège soit désactivé ou pas.
-- si l’artefact est un ennemi il faudra tuer l’ennemi pour le récupérer 
+- si l’artefact est un ennemi il faudra tuer l’ennemi pour le récupérer
 - si l’artefact est un coffre il faudra l’ouvrir pour le récupérer
 
 En aucun cas l’artefact ne pourra être ajouté aux trésors d’un joueur
@@ -157,7 +157,7 @@ En aucun cas l’artefact ne pourra être ajouté aux trésors d’un joueur
 
 ### Version carte
 Chaque joueur pioche dans la donne autant cartes qu'il a de points dans la statistique qu'il souhaite tester
-Il additionne ensuite la valeur des cartes pour connaître le résultat de son test. 
+Il additionne ensuite la valeur des cartes pour connaître le résultat de son test.
 Lors des combats, il en va de même pour les ennemis.
 
 Exemple :  
@@ -172,7 +172,7 @@ Exemple :
 
 ### Version dés
 Chaque joueur lance autant de dés (6 faces) qu'il a de points dans la statistique qu'il souhaite tester
-Il additionne ensuite la valeur des dés pour connaître le résultat de son test. 
+Il additionne ensuite la valeur des dés pour connaître le résultat de son test.
 Lors des combats, il en va de même pour les ennemis.
 
 Exemple :
@@ -191,7 +191,7 @@ Exemple :
 - début du tour
 - jet d'initiative : chaque opposant pioche dans la donne autant de cartes qu'il a de points de mouvement.
 - fuite : si un des deux opposant a obtenu un critique en initiative il peut choisir de fuir le combat, il se déplace alors sur n’importe quelle case adjacente, il n'effectue aucune action sur cette carte avant le tour suivant.
-- attaque du premier opposant : celui ayant obtenu le plus grand score en initiative commence. Si un des opposants a obtenu un critique en initiative il attaque 2 fois. L’attaquant pioche autant de cartes qu’il a de points d’attaque, le défenseur pioche autant de cartes qu’il a de points de  défense. 
+- attaque du premier opposant : celui ayant obtenu le plus grand score en initiative commence. Si un des opposants a obtenu un critique en initiative il attaque 2 fois. L’attaquant pioche autant de cartes qu’il a de points d’attaque, le défenseur pioche autant de cartes qu’il a de points de  défense.
   - si l’attaquant obtient  le plus grand score il enlève 1 point de vie au défenseur.
   - si l’attaquant fait une réussite critique il enlève 2 points de vie au défenseur
   - si le défenseur obtient le plus grand score, il ne perd pas de points de vie
@@ -233,7 +233,7 @@ Un critique lors d’une phase de dialogue a pour effet de faire gagner 2 points
 
 ## Échanges d’objets
 
-À tout moment durant son tour un joueur peut donner autant de trésors ou d’objets qu’il le souhaite à n’importe quel joueur situé sur la même case que lui ou sur une case adjacente (diagonale comprise). 
+À tout moment durant son tour un joueur peut donner autant de trésors ou d’objets qu’il le souhaite à n’importe quel joueur situé sur la même case que lui ou sur une case adjacente (diagonale comprise).
 
 
 # Crafting
@@ -286,7 +286,7 @@ L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#
 ## Débuter une partie
 
 Les joueurs définissent leurs personnages, ils choisissent/créent leur classe ainsi que leur couleur ou nombre fétiche.
-Le MJ met en place la pièce, il dispose les cartes pour former les chemins désirés en prenant soin de dissimuler les items importants (artéfacts, PNJ, etc.) et d’en noter les références 
+Le MJ met en place la pièce, il dispose les cartes pour former les chemins désirés en prenant soin de dissimuler les items importants (artéfacts, PNJ, etc.) et d’en noter les références
 Exemple :  
 la clé sera le 10 de pique.
 Les cartes restantes une fois la pièce créée deviennent la pioche. Si la pièce utilise plus de la moitié des cartes il faudra ajouter un nouveau jeu de 52 cartes.
@@ -357,7 +357,3 @@ Pas d’Utilisation Commerciale — Vous n'êtes pas autorisé à faire un usage
 Partage dans les Mêmes Conditions — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'Oeuvre originale, vous devez diffuser l'Oeuvre modifiée dans les même conditions, c'est à dire avec la même licence avec laquelle l'Oeuvre originale a été diffusée.
 
 Pas de restrictions complémentaires — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
-
-
-
-
