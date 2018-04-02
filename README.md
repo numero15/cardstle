@@ -34,7 +34,7 @@ Le joueur dispose de 20 crédits à répartir entre les 4 statistiques, le coût
 Le joueur doit attribuer au moins 1 point dans chaque statistique. Si après avoir rempli les statistiques il reste des crédits au joueur, il doit les noter sur sa fiche personnage, il pourra alors s’en servir plus tard.
 
 Exemple :
-Le joueur souhaite avoir 3 points de défense, il dépense 1 crédit pour le 1er point, 2 crédits pour le 2eme, 3 crédits pour le 3eme, soit un total de 6 crédits.
+> Le joueur souhaite avoir 3 points de défense, il dépense 1 crédit pour le 1er point, 2 crédits pour le 2eme, 3 crédits pour le 3eme, soit un total de 6 crédits.
 
 
 ## Inventaire
@@ -47,11 +47,11 @@ Chaque personnage possède un inventaire dans lequel il peut stocker :
 ## Fétiche
 
 ### Version carte
-Chaque personnage possède une carte fétiche, défini par son nombre (as à 10) et sa couleur (rouge ou noir) (cf. Tests pour le fonctionnement des cartes fétiches.Exemples : neuf noir, as rouge, etc.
+Chaque personnage possède une carte fétiche, défini par son nombre (as à 10) et sa couleur (rouge ou noir) (cf. [Tests](#tests) pour le fonctionnement des cartes fétiches.Exemples : neuf noir, as rouge, etc.
 ### Version dé
 Chaque personnage possède un nombre fétiche, défini par son nombre (1 à 12)
 
-Voir [Tests](#tests) pour le fonctionnement des cartes fétiches.
+cf. [Tests](#tests) pour le fonctionnement des cartes fétiches.
 
 
 ## Capacités spéciales
