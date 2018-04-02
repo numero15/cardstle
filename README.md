@@ -188,10 +188,10 @@ Exemple :
 - jet d'initiative : chaque opposant pioche dans la donne autant de cartes qu'il a de points de mouvement.
 - fuite : si un des deux opposant a obtenu un critique en initiative il peut choisir de fuir le combat, il se déplace alors sur n’importe quelle case adjacente, il n'effectue aucune action sur cette carte avant le tour suivant.
 - attaque du premier opposant : celui ayant obtenu le plus grand score en initiative commence. Si un des opposants a obtenu un critique en initiative il attaque 2 fois. L’attaquant pioche autant de cartes qu’il a de points d’attaque, le défenseur pioche autant de cartes qu’il a de points de  défense. 
-- si l’attaquant obtient  le plus grand score il enlève 1 point de vie au défenseur.
-- si l’attaquant fait une réussite critique il enlève 2 points de vie au défenseur
-- si le défenseur obtient le plus grand score, il ne perd pas de points de vie
-- si le défenseur fait une réussite critique, l’attaquant tirera une carte de moins lors de son prochain test (stun)
+  - si l’attaquant obtient  le plus grand score il enlève 1 point de vie au défenseur.
+  - si l’attaquant fait une réussite critique il enlève 2 points de vie au défenseur
+  - si le défenseur obtient le plus grand score, il ne perd pas de points de vie
+  - si le défenseur fait une réussite critique, l’attaquant tirera une carte de moins lors de son prochain test (stun)
 - attaque du deuxième opposant sur le même principe que celle du premier
 - fin du tour
 
