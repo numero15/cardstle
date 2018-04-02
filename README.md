@@ -47,7 +47,11 @@ Chaque personnage possède un inventaire dans lequel il peut stocker :
 ## Fétiche
 
 ### Version carte
-Chaque personnage possède une carte fétiche, défini par son nombre (as à 10) et sa couleur (rouge ou noir) (cf. [Tests](#tests) pour le fonctionnement des cartes fétiches.Exemples : neuf noir, as rouge, etc.
+Chaque personnage possède une carte fétiche, défini par son nombre (as à 10) et sa couleur (rouge ou noir).
+
+Exemples :
+> neuf noir, as rouge, etc.
+
 ### Version dé
 Chaque personnage possède un nombre fétiche, défini par son nombre (1 à 12)
 
