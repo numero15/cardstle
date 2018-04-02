@@ -118,7 +118,7 @@ Les coffres sont de différentes tailles :
 - 5 et 6 : coffres moyens, ils contiennent 2 trésors
 - 7 : grands coffres, ils contiennent 3 trésors
 
-Exemple : 
+Exemple :  
 Un joueur tombe sur un 5 de cœur, il l'ouvre avec un 3 de cœur qu'il avait dans son inventaire.
 Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
 
@@ -163,7 +163,7 @@ Si une des cartes tirées correspond à la carte fétiche du joueur, ce dernier 
 
 Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
-Exemple :
+Exemple :  
 Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique
 
 ### Version dés
