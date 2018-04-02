@@ -39,17 +39,17 @@ Le joueur souhaite avoir 3 points de défense, il dépense 1 crédit pour le 1er
 
 ## Inventaire
 
-Chaque personnage possède un inventaire dans lequel il peut stocker :  
+Chaque personnage possède un inventaire dans lequel il peut stocker : 
 - 3 objets craftés (items puissants)
 - autant de trésors qu’il le souhaite
 
 
 ## Fétiche
 
-### Version carte  
+### Version carte
 Chaque personnage possède une carte fétiche, défini par son nombre (as à 10) et sa couleur (rouge ou noir) (cf. Tests pour le fonctionnement des cartes fétiches.Exemples : neuf noir, as rouge, etc.
-### Version dé  
-Chaque personnage possède un nombre fétiche, défini par son nombre 1 à 12)
+### Version dé
+Chaque personnage possède un nombre fétiche, défini par son nombre (1 à 12)
 
 Voir [tests](Tests) pour le fonctionnement des cartes fétiches.
 
@@ -57,36 +57,16 @@ Voir [tests](Tests) pour le fonctionnement des cartes fétiches.
 ## Capacités spéciales
 
 Chaque personnage possède des capacités spéciales utiles durant la phase d'exploration et la phase de crafting, ces capacités peuvent être imaginées par les joueurs et le MJ, en voici quelques exemples :
-
-Pique
-Coeur
-Trèfle
-Carreau
-Valet
-peut attaquer à distance en utilisant un trésor, dans ce cas l’ennemi ne peut pas riposter
-lors du crafting il peut rendre tout ses point de vie à un personnage
-
-
-regarder une carte de la pièce, coute un trésor
-ouvre les coffres avec une clé de la bonne couleur (noir, rouge) et non de la bonne famille
-pioche une carte trésor si il désamorce un piège == vitesse J
-peut changer la couleur d'une carte pendant la phase de crafting
-
-
-enlève 1pt de stats à la défense et à l’attaque de l’adversaire au premier tour, 2 au 2nd tour etc, coût : 1 trésor
-Dame
-en cas de critique d’attaque : vol d’un objet
-
-
-stun automatiquement si réussit son test d’initiative au début d’un combat
-à n’importe quel moment, annule les dégâts sur le point d’être faits, coût 1 trésor
-Roi
-A son tour, peut téléporter un joueur vers soi.
-Berserk
-
-
-lors d'un combat sa défense critique inflige 1 point de dégât
-peut changer la valeur d'une carte pendant la phase de crafting
+- le joueur peut attaquer à distance (max 2 cases), l’ennemi ne peut pas riposter. Coûte un trésor.
+- le joueur peut regarder deux cartes de la pièce. Coûte un trésor.
+- le joueur peut ouvrir les coffres avec une clé de la bonne couleur (noir, rouge) et non de la bonne famille. Il pioche également une carte trésor si il désamorce un piège.
+- le joueur peut enlever 1pt de stats à la défense et à l’attaque de l’adversaire au premier tour, 2 au 2nd tour etc. Coûte autant de trésor que de points par tour (tour 1 => 1 trésor, tour 2 => 2 trésors, etc.).
+- le joueur vole un objet à l'ennemi en cas d’attaque critique.
+- l'ennemi ne peut pas attaquer si le joueur réussit son test d’initiative au début d’un combat.
+- à n’importe quel moment le joueur peut annuler les dégâts sur le point d’être faits, coût 1 trésor.
+- durant son tour le joueur peut téléporter un joueur vers soi.
+- lors d'un combat la défense critique du joueur inflige 1 point de dégât.
+- après qu'un ennemi ai lancé ses dés, le joueur peut supprimer un des dés lancés. Coûte un trésor.
 
 
 # Pièce
@@ -97,7 +77,7 @@ Les joueur peuvent se déplacer sur une carte adjacente à leur position actuell
 
 Les joueurs peuvent se déplacer deux fois plus vite sur des cases déjà découvertes.
 Les joueurs ne peuvent se rendre sur des emplacements laissés vides par le MJ.
-A chaque fois qu'un joueur se déplace sur une carte face cachée il la retourne et effectue les actions spécifique au type de carte (cf. Type de carte).
+À chaque fois qu'un joueur se déplace sur une carte face cachée il la retourne et effectue les actions spécifique au type de carte (cf. Type de carte).
 
 
 ## Types de cartes
@@ -109,33 +89,34 @@ Un ennemi déclenche un combat (cf. Combat) ou un dialogue (cf. Dialogue), le ch
 En cas de combat, le joueur qui tue l'ennemi peut récupérer la carte de l'ennemi et l'ajouter à son inventaire en tant que trésor.
 
 Les ennemis sont de différents types en fonction de leur famille :
-coeur :     ennemis avec beaucoup de vie
-pique :      ennemis avec beaucoup d’attaque
-carreau :     ennemis avec beaucoup de défense
-trèfle :      ennemis avec beaucoup de mouvement
+- coeur : ennemis avec beaucoup de vie
+- pique : ennemis avec beaucoup d’attaque
+- carreau : ennemis avec beaucoup de défense
+- trèfle : ennemis avec beaucoup de mouvement
 
 Les ennemis sont de différente force en fonction de leur valeur :
-valet : faible
-reine : moyen
-roi : puissant
-as : très puissant
+- valet : faible
+- reine : moyen
+- roi : puissant
+- as : très puissant
 
-Exemples de stats en annexe.
-Piège (8, 9, 10)
+Exemples de stats en [documents-utiles](annexe).
+
+### Piège (8, 9, 10)
 Un piège ne se déclenche qu'une fois, au moment ou il est retourné, il n'est plus actif par la suite.
 Au moment de l'activation le joueur doit tester sa défense contre l'attaque du piège (cf. Tests).
-piège 8 : 2 d'attaque    
-piège 9 : 3 d'attaque    
-piège 10 : 4 d'attaque
+- piège 8 : 2 d'attaque    
+- piège 9 : 3 d'attaque    
+- piège 10 : 4 d'attaque
 
 Si le joueur réussit le test il désactive le piège, il peut alors récupérer la carte du piège et l'ajouter à son inventaire en tant que trésor. S'il échoue il perd 1 point de vie et laisse la carte piège en place, elle ne sera plus active et personne ne pourra plus la récupérer.
 
 ### Coffre (2, 3, 4, 5, 6, 7)
 Lorsque qu'un joueur tombe sur un coffre il peut l'ouvrir si il possède dans son inventaire un trésor de la même famille. La valeur de la carte trésor n'a pas d'importance (cette carte devra être mise dans la pioche après utilisation). Lorsqu’il ouvre un coffre, le joueur ajoute à ses trésors le contenu du coffre ainsi que la carte du coffre. 
 Les coffres sont de différentes tailles :
-2,  3 et 4:     petits coffres, ils contiennent 1 trésor
-5 et 6 :     coffres moyens, ils contiennent 2 trésors
-7 :         grands coffres, ils contiennent 3 trésors
+- 2, 3 et 4:petits coffres, ils contiennent 1 trésor
+- 5 et 6 : coffres moyens, ils contiennent 2 trésors
+- 7 : grands coffres, ils contiennent 3 trésors
 
 Exemple :
 Un joueur tombe sur un 5 de cœur, il l'ouvre avec un 3 de cœur qu'il avait dans son inventaire.
@@ -144,13 +125,13 @@ Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
 ### Trésors
 Les trésors représentent les cartes acquises : dans les coffres, après avoir désactivé un piège ou tué un ennemi.
 Il ont différentes fonctionnalités, il peuvent être utilisés :
-pour ouvrir un coffre (cf. Coffres)
-par certaines capacités spéciales des personnages (cf. Création de personnage)
-pour ajouter 1 carte ou dé à un test
-carreau ajoute 1 carte ou dé en défense
-pique ajoute 1 carte ou dé en attaque
-trèfle ajoute 1 carte ou dé de mouvement
-pour restorer 1 point de vie, à tout moment du tour du joueur : famille coeur
+- pour ouvrir un coffre (cf. [coffres](Coffres))
+- par certaines capacités spéciales des personnages (cf. [création-de-presonnage](Création de personnage))
+- pour ajouter 1 carte ou dé à un test
+- carreau ajoute 1 carte ou dé en défense
+- pique ajoute 1 carte ou dé en attaque
+- trèfle ajoute 1 carte ou dé de mouvement
+- pour restorer 1 point de vie, à tout moment du tour du joueur : famille coeur
 
 ### Cartes spéciales
 Le MJ peut décider que certaines cartes ont un rôle particulier dans le déroulement du scénario. 
@@ -161,9 +142,9 @@ Des ennemis peuvent être belliqueux et déclencher automatiquement un combat, a
 #### Artefacts 
 Des artefacts peuvent être disséminés dans la pièce
 Les artefacts peuvent être n’importe quelle carte :
-si l’artefact est un piège il sera automatiquement récupérée que le piège soit désactivé ou pas.
-si l’artefact est un ennemi il faudra tuer l’ennemi pour le récupérer 
-si l’artefact est un coffre il faudra l’ouvrir pour le récupérer
+- si l’artefact est un piège il sera automatiquement récupérée que le piège soit désactivé ou pas.
+- si l’artefact est un ennemi il faudra tuer l’ennemi pour le récupérer 
+- si l’artefact est un coffre il faudra l’ouvrir pour le récupérer
 
 En aucun cas l’artefact ne pourra être ajouté aux trésors d’un joueur
 
