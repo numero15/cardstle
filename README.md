@@ -33,7 +33,7 @@ Le joueur dispose de 20 crédits à répartir entre les 4 statistiques, le coût
 
 Le joueur doit attribuer au moins 1 point dans chaque statistique. Si après avoir rempli les statistiques il reste des crédits au joueur, il doit les noter sur sa fiche personnage, il pourra alors s’en servir plus tard.
 
-Exemple :  
+Exemple :
 Le joueur souhaite avoir 3 points de défense, il dépense 1 crédit pour le 1er point, 2 crédits pour le 2eme, 3 crédits pour le 3eme, soit un total de 6 crédits.
 
 
@@ -125,8 +125,8 @@ Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
 ### Trésors
 Les trésors représentent les cartes acquises : dans les coffres, après avoir désactivé un piège ou tué un ennemi.
 Il ont différentes fonctionnalités, il peuvent être utilisés :
-- pour ouvrir un coffre (cf. [coffres](Coffres))
-- par certaines capacités spéciales des personnages (cf. [création-de-presonnage](Création de personnage))
+- pour ouvrir un coffre (cf. [Coffres](#coffres))
+- par certaines capacités spéciales des personnages (cf. [Création de presonnage](#création-de-personnage))
 - pour ajouter 1 carte ou dé à un test
 - carreau ajoute 1 carte ou dé en défense
 - pique ajoute 1 carte ou dé en attaque
@@ -219,6 +219,7 @@ joueur A essaie de convaincre PNJ X de lui ouvrir une porte verrouillée, le MJ 
 
 Les PNJ récurrents peuvent avoir un score d’affinité avec un joueur allant de -6 (haine) à 6 (amour). Le score d’affinité entre le joueur et le PNJ est déduit du score du joueur à chaque lancer de dés.
 Dans le cas où plusieurs joueurs dialoguent en même temps avec un PNJ les affinités se somment pour chaque lancer de chaque joueur.
+
 Exemple :  
 joueur A et joueur B discutent avec PNJ X. A et X ont un score d’affinité de 3, B et X ont un score d’affinité de -5. Quand A et B jouent il doivent déduire -5+3 =-2 de leur lancer de dé. Si joueur A lance 2 dés et obtient 5 et 4, la valeur définitive de son jet sera 5+4-2 = 7
 
@@ -234,18 +235,21 @@ Un critique lors d’une phase de dialogue a pour effet de faire gagner 2 points
 
 Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, ils peuvent les combiner pour créer différents objets. Les objets peuvent être inventés par les joueurs et/ou le MJ. En voici quelques exemples :
 - famille (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, valet, dame, roi) : objet légendaire, donne un crédit pour augmenter une statistique :
+
 |carreau|ajoute 1 en défense|
 |pique|ajoute 1 en attaque|
 |trèfle|ajoute 1 de mouvement|
 |coeur|ajoute 1 point de vie|
 
 - famille par 5 : 5 cartes de la même famille (qu’importe le numéro) : sort de famille à usage unique
+
 |carreau|absorbe automatiquement la première attaque (si piège, permet de récupérer le trésor, si ennemi, stun)|
 |pique|double un jet d’attaque|
 |trèfle|permet de se téléporter sur n’importe quelle case de la pièce|
 |coeur|restaure tous les points de vie|
 
 - carré habillé (4 valets, 4 dames, 4 rois, 4  as) : sort variés à usage unique
+
 |valets||
 |dames|sort longue vue : permet de révéler une carte de la pièce|
 |rois||
@@ -255,7 +259,7 @@ Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, 
 Les trésors restants sont répartis entre les joueurs, pour le début de la pièce suivante. Avec un maximum de 2 trésors par joueur.
 
 
-Attention : les trésors permettant d’ouvrir les coffres (cf. (coffres)[#Coffres] il est important de toujours conserver un petit stock de trésors sous peine de se retrouver bloqué)
+Attention : les trésors permettant d’ouvrir les coffres (cf.[coffres](#Coffres)) il est important de toujours conserver un petit stock de trésors sous peine de se retrouver bloqué)
 
 
 # En pratique
@@ -271,7 +275,7 @@ du papier
 ### Préparation
 Un jeu de carte sera utilisé pour créer la pièce, les cartes restantes serviront de pioche (trésors), les jokers seront retirés de ce jeu. Pour les grandes pièces il est possible d’utiliser 2 jeux.
 
-L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. Tests et Combat), les habillés et les jokers seront retirés de ce jeu
+L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#tests) et [Combat](#combat)), les habillés et les jokers seront retirés de ce jeu
 
 
 ## Débuter une partie
