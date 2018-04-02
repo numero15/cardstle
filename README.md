@@ -119,8 +119,8 @@ Les coffres sont de différentes tailles :
 - 7 : grands coffres, ils contiennent 3 trésors
 
 Exemple :  
-Un joueur tombe sur un 5 de cœur, il l'ouvre avec un 3 de cœur qu'il avait dans son inventaire.
-Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
+> Un joueur tombe sur un 5 de cœur, il l'ouvre avec un 3 de cœur qu'il avait dans son inventaire.
+> Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
 
 ### Trésors
 Les trésors représentent les cartes acquises : dans les coffres, après avoir désactivé un piège ou tué un ennemi.
@@ -157,14 +157,14 @@ Il additionne ensuite la valeur des cartes pour connaître le résultat de son t
 Lors des combats, il en va de même pour les ennemis.
 
 Exemple :  
-Un joueur souhaite attaquer, il possède 3 points d'attaque. Il tire trois cartes : 5 pique, 10 trèfle, 2 pique. Il attaque avec une valeur de 5+10+2 = 17
+> Un joueur souhaite attaquer, il possède 3 points d'attaque. Il tire trois cartes : 5 pique, 10 trèfle, 2 pique. Il attaque avec une valeur de 5+10+2 = 17
 
 Si une des cartes tirées correspond à la carte fétiche du joueur, ce dernier est autorisé à piocher une carte supplémentaire.
 
 Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
 Exemple :  
-Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique
+> Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique
 
 ### Version dés
 Chaque joueur lance autant de dés (6 faces) qu'il a de points dans la statistique qu'il souhaite tester
@@ -179,7 +179,7 @@ Le joueur lance également le dé critique (12 faces) si le nombre identique au 
 Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
 Exemple :  
-Il faut faire 10 pour réussir le test, si le joueur fait 12 ou plus il effectue une réussite critique
+> Il faut faire 10 pour réussir le test, si le joueur fait 12 ou plus il effectue une réussite critique
 
 
 ## Combats
@@ -215,13 +215,13 @@ Les statistiques prennent alors une autre signification que lors des combats :
 
 Le joueur pose une question au PNJ, pour avoir une réponse il doit obtenir un certain nombre de points de conviction (défini par le MJ en fonction de la difficulté de la requête). À chaque fois que le joueur réussit un jet il gagne un point de conviction dans la stat testée. Le joueur ne peut effectuer qu’un jet par tour. Les points de conviction sont remis à zéro à chaque nouvelle question.
 Exemple :  
-joueur A essaie de convaincre PNJ X de lui ouvrir une porte verrouillée, le MJ estime que cette requête demande 2 points de conviction. A lance 3 dés et obtient 3+5+3=11, X lance 2 dés et obtient 4+5=9, A gagne un point de conviction, le tour est fini. Le discussion reprendra au tour suivant.
+> joueur A essaie de convaincre PNJ X de lui ouvrir une porte verrouillée, le MJ estime que cette requête demande 2 points de conviction. A lance 3 dés et obtient 3+5+3=11, X lance 2 dés et obtient 4+5=9, A gagne un point de conviction, le tour est fini. > La discussion reprendra au tour suivant.
 
 Les PNJ récurrents peuvent avoir un score d’affinité avec un joueur allant de -6 (haine) à 6 (amour). Le score d’affinité entre le joueur et le PNJ est déduit du score du joueur à chaque lancer de dés.
 Dans le cas où plusieurs joueurs dialoguent en même temps avec un PNJ les affinités se somment pour chaque lancer de chaque joueur.
 
 Exemple :  
-joueur A et joueur B discutent avec PNJ X. A et X ont un score d’affinité de 3, B et X ont un score d’affinité de -5. Quand A et B jouent il doivent déduire -5+3 =-2 de leur lancer de dé. Si joueur A lance 2 dés et obtient 5 et 4, la valeur définitive de son jet sera 5+4-2 = 7
+> joueur A et joueur B discutent avec PNJ X. A et X ont un score d’affinité de 3, B et X ont un score d’affinité de -5. Quand A et B jouent il doivent déduire -5+3 =-2 de leur lancer de dé. Si joueur A lance 2 dés et obtient 5 et 4, la valeur définitive de son jet sera 5+4-2 = 7
 
 Un critique lors d’une phase de dialogue a pour effet de faire gagner 2 points de conviction au lieu de 1.
 
