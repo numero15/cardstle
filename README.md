@@ -39,17 +39,19 @@ Le joueur souhaite avoir 3 points de défense, il dépense 1 crédit pour le 1er
 
 ## Inventaire
 
-Chaque personnage possède un inventaire dans lequel il peut stocker :
-3 objets craftés (items puissants)
-autant de trésors qu’il le souhaite
+Chaque personnage possède un inventaire dans lequel il peut stocker :  
+- 3 objets craftés (items puissants)
+- autant de trésors qu’il le souhaite
 
 
 ## Fétiche
 
-Version carte : Chaque personnage possède une carte fétiche, défini par son nombre (as à 10) et sa couleur (rouge ou noir) (cf. Tests pour le fonctionnement des cartes fétiches.Exemples : neuf noir, as rouge, etc.
-Version dé : Chaque personnage possède un nombre fétiche, défini par son nombre 1 à 12)
+### Version carte  
+Chaque personnage possède une carte fétiche, défini par son nombre (as à 10) et sa couleur (rouge ou noir) (cf. Tests pour le fonctionnement des cartes fétiches.Exemples : neuf noir, as rouge, etc.
+### Version dé  
+Chaque personnage possède un nombre fétiche, défini par son nombre 1 à 12)
 
-cf. Tests pour le fonctionnement des cartes fétiches.
+Voir [tests](Tests) pour le fonctionnement des cartes fétiches.
 
 
 ## Capacités spéciales
