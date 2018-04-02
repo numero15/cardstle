@@ -118,14 +118,14 @@ Les coffres sont de différentes tailles :
 - 5 et 6 : coffres moyens, ils contiennent 2 trésors
 - 7 : grands coffres, ils contiennent 3 trésors
 
-Exemple : 
+Exemple :  
 Un joueur tombe sur un 5 de cœur, il l'ouvre avec un 3 de cœur qu'il avait dans son inventaire.
 Il pioche 2 cartes, garde le 5 de cœur et se défausse du 3 de cœur.
 
 ### Trésors
 Les trésors représentent les cartes acquises : dans les coffres, après avoir désactivé un piège ou tué un ennemi.
 Il ont différentes fonctionnalités, il peuvent être utilisés :
-- pour ouvrir un coffre (cf. [Coffres](#coffre))
+- pour ouvrir un coffre (cf. [Coffres](#coffre-2-3-4-5-6-7))
 - par certaines capacités spéciales des personnages (cf. [Création de presonnage](#création-de-personnage))
 - pour ajouter 1 carte ou dé à un test
 - carreau ajoute 1 carte ou dé en défense
@@ -163,7 +163,7 @@ Si une des cartes tirées correspond à la carte fétiche du joueur, ce dernier 
 
 Un réussite critique à lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
-Exemple :
+Exemple :  
 Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique
 
 ### Version dés
@@ -259,7 +259,7 @@ Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, 
 Les trésors restants sont répartis entre les joueurs, pour le début de la pièce suivante. Avec un maximum de 2 trésors par joueur.
 
 
-Attention : les trésors permettant d’ouvrir les coffres (cf.[coffres](#Coffre)) il est important de toujours conserver un petit stock de trésors sous peine de se retrouver bloqué)
+Attention : les trésors permettant d’ouvrir les coffres (cf.[Coffre](#coffre-2-3-4-5-6-7)) il est important de toujours conserver un petit stock de trésors sous peine de se retrouver bloqué)
 
 
 # En pratique
@@ -275,7 +275,7 @@ du papier
 ### Préparation
 Un jeu de carte sera utilisé pour créer la pièce, les cartes restantes serviront de pioche (trésors), les jokers seront retirés de ce jeu. Pour les grandes pièces il est possible d’utiliser 2 jeux.
 
-L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#tests) et [Combat](#combat)), les habillés et les jokers seront retirés de ce jeu
+L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#tests) et [Combats](#combats)), les habillés et les jokers seront retirés de ce jeu
 
 
 ## Débuter une partie
@@ -342,7 +342,7 @@ Les joueurs font un test de mouvement celui ayant eu le plus score commence, cel
 
 # License
 
-Cardstle est placé sous license creative commons (CC BY-NC-SA 3.0)[#https://creativecommons.org/licenses/by-nc-sa/3.0/fr/]
+Cardstle est placé sous license creative commons [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 
 
 Attribution — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
