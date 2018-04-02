@@ -130,12 +130,12 @@ Exemple :
 Les trésors représentent les cartes acquises : dans les coffres, après avoir désactivé un piège ou tué un ennemi.
 Il ont différentes fonctionnalités, il peuvent être utilisés :
 - pour ouvrir un coffre (cf. [Coffres](#coffre-2-3-4-5-6-7))
-- par certaines capacités spéciales des personnages (cf. [Création de presonnage](#création-de-personnage))
+- par certaines capacités spéciales des personnages (cf. [Création de personnage](#création-de-personnage))
 - pour ajouter 1 carte ou dé à un test
   - carreau ajoute 1 carte ou dé en défense
   - pique ajoute 1 carte ou dé en attaque
   - trèfle ajoute 1 carte ou dé de mouvement
-- pour restorer 1 point de vie, à tout moment du tour du joueur : famille coeur
+- pour restaurer 1 point de vie, à tout moment du tour du joueur : famille cœur
 
 ### Cartes spéciales
 Le MJ peut décider que certaines cartes ont un rôle particulier dans le déroulement du scénario.
@@ -167,7 +167,7 @@ Si une des cartes tirées correspond à la carte fétiche du joueur, ce dernier 
 
 Une réussite critique a lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
-En cas d'ex aequo on réeffectue le test.
+En cas d'ex æquo on réeffectue le test.
 
 Exemple :
 > Il faut faire 10 pour réussir le test, si le joueur fait 20 ou plus il effectue une réussite critique.
@@ -184,7 +184,7 @@ Le joueur lance également le dé critique (12 faces). Si le nombre est identiqu
 
 Une réussite critique a lieu si le résultat d’un test est supérieur au double du seuil de réussite.
 
-En cas d'ex aequo on réeffectue le test.
+En cas d'ex æquo on réeffectue le test.
 
 Exemple :
 > Il faut faire 10 pour réussir le test, si le joueur fait 12 ou plus il effectue une réussite critique.
@@ -217,7 +217,7 @@ Certaines rencontres ne provoquent pas un combat mais un dialogue (sur décision
 
 Les statistiques prennent alors une autre signification que lors des combats :
 
-|Coeur|Séduire|
+|Cœur|Séduire|
 |Pique|Intimider|
 |Carreau|Convaincre|
 |Trèfle|Mentir|
@@ -249,14 +249,14 @@ Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, 
 |carreau|ajoute 1 en défense|
 |pique|ajoute 1 en attaque|
 |trèfle|ajoute 1 de mouvement|
-|coeur|ajoute 1 point de vie|
+|cœur|ajoute 1 point de vie|
 
 - famille par 5 : 5 cartes de la même famille (qu’importe le numéro) : sort de famille à usage unique
 
 |carreau|absorbe automatiquement la première attaque (si piège, permet de récupérer le trésor, si ennemi, stun)|
 |pique|double un jet d’attaque|
 |trèfle|permet de se téléporter sur n’importe quelle case de la pièce|
-|coeur|restaure tous les points de vie|
+|cœur|restaure tous les points de vie|
 
 - carré habillé (4 valets, 4 dames, 4 rois, 4  as) : sorts variés à usage unique
 
@@ -292,7 +292,7 @@ L’autre jeu sera utilisé comme donne, pour effectuer les tests (cf. [Tests](#
 ## Débuter une partie
 
 Les joueurs définissent leurs personnages, ils choisissent/créent leur classe ainsi que leur combinaison carte-couleur ou nombre fétiche.
-Le MJ met en place la pièce, il dispose les cartes pour former les chemins désirés en prenant soin de dissimuler les items importants (artéfacts, PNJ, etc.) et d’en noter les références.
+Le MJ met en place la pièce, il dispose les cartes pour former les chemins désirés en prenant soin de dissimuler les items importants (artefacts, PNJ, etc.) et d’en noter les références.
 
 Exemple :
 >la clé sera le 10 de pique.
@@ -301,7 +301,7 @@ Les cartes restantes une fois la pièce créée deviennent la pioche. Si la piè
 
 Chaque joueur commence la partie avec 2 trésors piochés au hasard.
 
-Les joueurs font un test de mouvement. Celui ayant eu le plus score commence, celui à se gauche joue ensuite, etc.
+Les joueurs font un test de mouvement. Celui ayant eu le plus score commence, celui à sa gauche joue ensuite, etc.
 
 ### Fiche perso
 
@@ -322,7 +322,7 @@ Les joueurs font un test de mouvement. Celui ayant eu le plus score commence, ce
 ### Familles/statistiques
 
 
-| **Coeur** | Vie | Séduire |
+| **Cœur** | Vie | Séduire |
 | **Pique** | Attaque | Intimider |
 | **Carreau** | Défense | Convaincre |
 | **Trèfle** | Mouvement | Mentir |
@@ -358,10 +358,10 @@ Les joueurs font un test de mouvement. Celui ayant eu le plus score commence, ce
 Cardstle est placé sous license creative commons [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
 
 
-Attribution — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
+Attribution — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Œuvre.
 
-Pas d’Utilisation Commerciale — Vous n'êtes pas autorisé à faire un usage commercial de cette Oeuvre, tout ou partie du matériel la composant.
+Pas d’Utilisation Commerciale — Vous n'êtes pas autorisé à faire un usage commercial de cette Œuvre, tout ou partie du matériel la composant.
 
-Partage dans les Mêmes Conditions — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'Oeuvre originale, vous devez diffuser l'Oeuvre modifiée dans les même conditions, c'est à dire avec la même licence avec laquelle l'Oeuvre originale a été diffusée.
+Partage dans les Mêmes Conditions — Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'Œuvre originale, vous devez diffuser l'Œuvre modifiée dans les même conditions, c'est à dire avec la même licence avec laquelle l'Œuvre originale a été diffusée.
 
-Pas de restrictions complémentaires — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
+Pas de restrictions complémentaires — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Œuvre dans les conditions décrites par la licence.
