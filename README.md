@@ -213,7 +213,7 @@ Un combat dure jusqu'à ce qu’un opposant fuie ou n'ait plus de points de vie.
 
 ## Dialogues
 
-Certaines rencontres ne provoquent pas un combat mais un dialogue (sur décision du MJ ou du joueur). Dans ce cas le joueur fait un jet dans une stat de son choix, et l’interlocuteur de même, dans la même stat.
+Certaines rencontres ne provoquent pas un combat mais un dialogue (sur décision du MJ ou du joueur). Dans ce cas le joueur fait un jet dans une statistique de son choix, et l’interlocuteur de même, dans la même statistique.
 
 Les statistiques prennent alors une autre signification que lors des combats :
 
@@ -225,7 +225,7 @@ Les statistiques prennent alors une autre signification que lors des combats :
 Le joueur pose une question au PNJ, pour avoir une réponse il doit obtenir un certain nombre de points de conviction (défini par le MJ en fonction de la difficulté de la requête). À chaque fois que le joueur réussit un jet il gagne un point de conviction dans la stat testée. Le joueur ne peut effectuer qu’un jet par tour. Les points de conviction sont remis à zéro à chaque nouvelle question.
 
 Exemple :
-> joueur A essaie de convaincre PNJ X de lui ouvrir une porte verrouillée, le MJ estime que cette requête demande 2 points de conviction. A lance 3 dés et obtient 3+5+3=11, X lance 2 dés et obtient 4+5=9, A gagne un point de conviction, le tour est fini. > La discussion reprendra au tour suivant.
+> joueur A essaie de convaincre PNJ X de lui ouvrir une porte verrouillée, le MJ estime que cette requête demande 2 points de conviction. A lance 3 dés et obtient 3+5+3=11, X lance 2 dés et obtient 4+5=9, A gagne un point de conviction, le tour est fini. La discussion reprendra au tour suivant.
 
 Les PNJ récurrents peuvent avoir un score d’affinité avec un joueur allant de -6 (haine) à 6 (amour). Le score d’affinité entre le joueur et le PNJ est déduit du score du joueur à chaque lancer de dés.
 Dans le cas où plusieurs joueurs dialoguent en même temps avec un PNJ les affinités se somment pour chaque lancer de chaque joueur.
