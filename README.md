@@ -243,7 +243,7 @@ Un critique lors d’une phase de dialogue a pour effet de faire gagner 2 points
 
 # Crafting
 
-Après avoir fini une pièce les joueurs mettent en commun les trésor obtenus, ils peuvent les combiner pour créer différents objets. Les objets peuvent être inventés par les joueurs et/ou le MJ. En voici quelques exemples :
+Après avoir fini une pièce les joueurs mettent en commun les trésors obtenus, ils peuvent les combiner pour créer différents objets. Les objets peuvent être inventés par les joueurs et/ou le MJ. En voici quelques exemples :
 - famille (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, valet, dame, roi) : objet légendaire, donne un crédit pour augmenter une statistique :
 
 |carreau|ajoute 1 en défense|
