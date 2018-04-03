@@ -108,7 +108,7 @@ Exemples de stats en [annexe](#documents-utiles).
 
 ### Piège (8, 9, 10)
 Un piège ne se déclenche qu'une fois, au moment ou il est retourné, il n'est plus actif par la suite.
-Au moment de l'activation le joueur doit tester sa défense contre l'attaque du piège (cf. Tests).
+Au moment de l'activation le joueur doit tester sa défense contre l'attaque du piège (cf. [Tests](#tests)).
 - piège 8 : 2 d'attaque
 - piège 9 : 3 d'attaque
 - piège 10 : 4 d'attaque
